@@ -1,5 +1,6 @@
 {
-  "homepage": "https://huutrinh68.github.io",
+  "name": "manabitv",
+  "homepage": "https://huutrinh68.github.io/manabitv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

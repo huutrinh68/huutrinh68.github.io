@@ -10,3 +10,5 @@ Các khoá sẽ có trong tương lai gần
 - Bash shell trong Unix
 - Git 
 * to be update
+
+[Welcome](https://huutrinh68.github.io/manabitv)

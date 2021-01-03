@@ -17,4 +17,4 @@ For more detail, please visit the following blog and youtube channel.
 
 [Welcome to my youtube channel](https://www.youtube.com/channel/UC249ZCTGpyttnCsdc7aSpWg)
 
-If you have any additional questions, do not hesitate to send me an email to trinhsp89@gmail.com
+If you have any additional questions, do not hesitate to send me an email to <trinhsp89@gmail.com>

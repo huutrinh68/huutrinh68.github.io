@@ -11,4 +11,4 @@ Các khoá sẽ có trong tương lai gần
 - Git 
 * to be update
 
-## :point_right:[Welcome](https://huutrinh68.github.io/manabitv)
+## [Welcome](https://huutrinh68.github.io/manabitv)

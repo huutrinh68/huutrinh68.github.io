@@ -1,3 +1,5 @@
+# ManabiTV
+
 **Manabi** trong tiếng Nhật có nghĩa là Học.
 Blog này mình lập ra để cung cấp kiến thức lập trình cơ bản, kiến thức về xử lý ảnh, xử lý ngôn ngữ tự nhiên là chính.
 Mình sẽ xây dựng một lộ trình học lập trình để các bản có thể trở thành một kỹ sư AI Engineer, Data Scientist. Bắt đầu từ những kiến thức cơ bản đến nâng cao. 

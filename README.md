@@ -20,3 +20,5 @@ For more detail, please visit the following blog and youtube channel.
 [Welcome to my youtube channel](https://www.youtube.com/channel/UC249ZCTGpyttnCsdc7aSpWg)
 
 If you have any additional questions, do not hesitate to send me an email to <trinhsp89@gmail.com>
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
